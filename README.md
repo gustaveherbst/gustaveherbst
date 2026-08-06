@@ -3,8 +3,6 @@
 ![Enterprise Architecture](https://img.shields.io/badge/Enterprise-Architecture-green)
 ![Open Source](https://img.shields.io/badge/Open-Source-success)
 
-# Hi, I'm Gustave Herbst 👋
-
 Enterprise Architect • AI Solution Architect • Software Engineer
 
 I design and build enterprise-scale AI platforms, distributed systems, developer tooling, and modern software infrastructure.
