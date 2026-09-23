@@ -44,6 +44,14 @@ Deterministic agent runtime for durable workflows, event-driven orchestration, r
 
 ---
 
+## Knobyte
+
+Knobyte keeps your team's architecture, decisions, requirements, code evidence, and handoffs alongside the code. Engineers and their AI agents can build on shared context, review proposed changes, and carry work between sessions and teammates with Git as the sharing layer.
+
+🌐 https://knobyte.ai
+
+---
+
 ## Chilio
 
 Privacy-focused social platform built on the Nostr protocol with Bitcoin Lightning integration.
