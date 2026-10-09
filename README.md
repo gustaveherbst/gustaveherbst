@@ -1,5 +1,5 @@
 
-**Enterprise Architect | AI Researcher | Systems Engineer**
+# Enterprise Architect | AI Researcher | Systems Engineer
 
 Designing and building intelligent systems, specialized AI models, distributed platforms, and developer infrastructure.
 
