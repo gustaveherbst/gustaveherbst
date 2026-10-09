@@ -1,7 +1,7 @@
 
 # Enterprise Architect | AI Researcher | Systems Engineer
 
-Designing and building intelligent systems, specialized AI models, distributed platforms, and developer infrastructure.
+Designing specialized AI models, intelligent systems, and distributed platforms that bridge research, engineering, and enterprise strategy.
 
 Decades of experience bridging enterprise architecture and hands-on engineering, with a focus on AI, Rust, distributed systems, and scalable software.
 
