@@ -18,11 +18,11 @@ Decades of experience bridging enterprise architecture and hands-on engineering,
 
 ## Engineering Interests
 
-**AI & Agentic Systems** · **Rust** · **Distributed Systems** · **Enterprise Architecture** · **Cloud Infrastructure** · **Developer Tooling**
+**AI/ML Research & Model Engineering** · **Enterprise AI Strategy** · **Agentic Systems** · **Rust & Distributed Systems** · **Enterprise & Cloud Architecture** · **Developer Platforms**
 
 ## Connect
 
-[Website](https://techcodex.io) · [LinkedIn](https://linkedin.com/in/gustaveherbst)
+[Website](https://techcodex.io) · [LinkedIn](https://linkedin.com/in/gerhardtherbst)
 
 ---
 
