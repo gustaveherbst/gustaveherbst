@@ -14,6 +14,7 @@ Decades of experience bridging enterprise architecture and hands-on engineering,
 | **[Knobyte](https://knobyte.ai)** | Git-native engineering knowledge and AI collaboration. |
 | **[Chilio](https://chilio.app)** | Decentralized social platform built on Nostr. |
 | **[ChiliBeam](https://chilibeam.app)** | Optical data transport and offline file transfer. |
+| **[USOTP](https://gustaveherbst)** | USOTP is a zero-trust transport protocol. |
 | **[TechCodex](https://techcodex.io)** | Technology research, architecture, and engineering. |
 
 ## Engineering Interests
