@@ -1,4 +1,3 @@
-# Gerhardt Herbst
 
 **Enterprise Architect | AI Researcher | Systems Engineer**
 
